@@ -1,0 +1,19 @@
+{
+
+
+# T E L E G R A M
+
+ telegram_id: 252203295,    #tu id de telegram para que te envien las notificaciones al movil
+
+ telegram_bot: 5004831521:AAG2gZMenX6Yeo3HDQFqe_3pKpJChR3IFwc,    #esto es la seed del bot de telegram, no tocar pls 
+
+
+# C O N F I G     T I M E R S
+
+ time_working: 15,    #tiempo que trabajaran (MINUTOS)
+
+ time_sleeping: 70,     #tiempo que dormiran (MINUTOS)
+
+ time_actions: 6,     #tiempo de pausa entre una accion del bot y otra, si ves que al bot se le acumulan las acciones, se recomienda subir (SEGUNDOS)
+ 
+}

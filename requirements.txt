@@ -1,0 +1,5 @@
+PyAutoGUI==0.9.53
+Pillow==9.0.0
+opencv-python==4.5.5.62
+pyTelegramBotAPI==4.2.2
+PyYAML==6.0
